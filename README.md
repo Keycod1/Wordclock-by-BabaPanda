@@ -1,4 +1,3 @@
-<img width="3536" height="4334" alt="horloge-composée" src="https://github.com/user-attachments/assets/d231d71b-dc37-4863-ac64-9d666bc318ba" />
 ✨ L’heure comme vous ne l’avez jamais lue ! ✨
 
 Marre des horloges classiques ? Découvrez ma dernière Wordclock, un savant mélange de design, de bois et d'électronique faite maison ! 🛠️ Pourquoi est-elle indispensable chez vous ? Jetez un œil aux specs :
@@ -24,3 +23,5 @@ J'ai réalisé deux formats :
 C’est du fait main, c’est local (à Namur), et ça en jette dans un salon. 🇧🇪
 
 <img width="1417" height="1401" alt="668553797_122165638382671746_1405781996460517427_n" src="https://github.com/user-attachments/assets/58bd4903-ecbf-40aa-b3fd-420ab0c921fd" />
+
+<img width="3536" height="4334" alt="horloge-composée" src="https://github.com/user-attachments/assets/d231d71b-dc37-4863-ac64-9d666bc318ba" />
