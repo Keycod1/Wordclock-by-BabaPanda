@@ -17,20 +17,10 @@ Jetez un œil aux specs :
 
 🕒 Le petit plus ? Elle gère tout : MIDI, MINUIT, matin (AM) et après-midi (PM) !
 
-⚠️ STOCKS LIMITÉS & PRODUCTION À LA DEMANDE ⚠️
-
-Deux formats sont disponibles :
+J'ai réalisé deux formats :
 
 🖼️ 50x50 cm : Lecture par blocs de 5 minutes avec points lumineux.
 
-👉 DE STOCK : Modèles avec façade noire élégante.
-
 🖼️ 60x60 cm : Le nec plus ultra ! L'heure s'écrit en toutes lettres, à la minute près.
 
-💎 EXCLUSIVITÉ : Quelques modèles marbrés (pièces uniques) disponibles immédiatement.
-
-👉 À LA DEMANDE : Je produis votre exemplaire sur commande selon vos envies.
-
-C’est du fait main, c’est local, et ça en jette dans un salon. 🇧🇪
-Envie de la voir en vrai ?
-
+C’est du fait main, c’est local (à Namur), et ça en jette dans un salon. 🇧🇪
